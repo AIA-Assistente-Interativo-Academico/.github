@@ -17,7 +17,7 @@ Para isso, o AIA integra os dados acadêmicos do estudante com aplicações de p
 
 O sistema foi desenhado para garantir alta disponibilidade, performance e compatibilidade:
 
-* **Frontend:** Aplicação acessível através de navegadores web modernos e aplicação móvel nativa para Android (utilizando React Native).
+* **Frontend:** Aplicação acessível através de uma aplicação móvel nativa para Android (utilizando React Native).
 * **Backend:** Estruturado com Ruby utilizando o framework On Rails
 * **Integração de Dados:** Processamento e sincronização automatizada das informações para manter o painel académico sempre atualizado.
 * **Comunicação:** Arquitetura padronizada utilizando APIs HTTP RESTful.
