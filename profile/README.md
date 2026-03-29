@@ -1,6 +1,6 @@
-# 🎓 Assistente Interativo Académico (AIA)
+# 🎓 Assistente Interativo Acadêmico (AIA)
 
-O Assistente Interativo Académico (AIA) é uma plataforma móvel desenvolvida para atender estudantes de ensino superior com foco na Universidade do Estado do Rio Grande do Norte (UERN) e na Univesidade Federal Rural do Semi-Árido (UFERSA). O objetivo principal do projeto é centralizar, organizar e otimizar a gestão da vida académica, resolvendo o desafio da dispersão de informações. 
+O Assistente Interativo Acadêmico (AIA) é uma plataforma móvel desenvolvida para atender estudantes de ensino superior com foco na Universidade do Estado do Rio Grande do Norte (UERN) e na Univesidade Federal Rural do Semi-Árido (UFERSA). O objetivo principal do projeto é centralizar, organizar e otimizar a gestão da vida académica, resolvendo o desafio da dispersão de informações. 
 
 Para isso, o AIA integra os dados acadêmicos do estudante com aplicações de produtividade amplamente utilizadas, como o Notion e o Google Calendar, criando um ecossistema unificado e intuitivo.
 
